@@ -1,2 +1,4 @@
 ### VisualStudioCode ###
 .vscode/*
+### ignore xdp backup files ###
+*_BAK.xdp
